@@ -1,11 +1,16 @@
 _repo: Las-transformaciones-de-la-sociedad-argentina-y-sus-consecuencias-institucionales-1853-a-1910_56010
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56010-h/images/cover.jpg
 creator:
   author:
     agent_name: Rivarola, Horacio C.
     gutenberg_agent_id: '48622'
     url: http://www.gutenberg.org/2009/agents/48622
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56010#Las-transformaciones-de-la-sociedad-argentina-y-sus-consecuencias-institucionales-1853-a-1910
 gutenberg_issued: '2017-11-19'
 gutenberg_type: Text
 identifiers:
